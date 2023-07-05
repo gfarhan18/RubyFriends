@@ -66,3 +66,5 @@ gem 'bootstrap', '~> 5.0'
 gem 'jquery-rails'
 #for beautify extension
 gem 'htmlbeautifier'
+
+gem 'devise', '~> 4.9', '>= 4.9.2'
